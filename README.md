@@ -6,8 +6,8 @@ The Project As Small Parts:
 - User Input and Validation
   1. Display a menu to the user to select a vehicle
   2.  2. Validate
- 3. How many liters?
- 4. Validate
+  3. How many liters?
+  4. Validate
 - Fuel Type Determination
   1. Diesel or Petrol or Gas?
 - Cost Calculation
@@ -20,5 +20,5 @@ The Project As Small Parts:
 - Implement An Alarm
   1. INT 1Ch interrupt to generate a system timer tick
   2. Set up a counter to count the time ticks
- 3. When the counter reaches the fueling time, trigger the alarm
-- Progress Bar Or Timer (if we have enough time)
+  3. When the counter reaches the fueling time, trigger the alarm
+- Progress Bar Or Timer 
