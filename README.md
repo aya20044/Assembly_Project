@@ -1,4 +1,4 @@
-# Assembly_Project
+# Motor_Cafe
 Motor Cafe is a program written in assembly language, that simulate the gas station system.
 The Project As Small Parts: 
 - Data Structure and Initialization
